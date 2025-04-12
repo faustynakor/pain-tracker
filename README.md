@@ -1,0 +1,1 @@
+Pain Tracker is an application designed to help individuals track their pain levels over time. It allows users to record their pain experiences, log various details related to pain intensity, location, and time, and visualize trends to manage and monitor their condition effectively.
